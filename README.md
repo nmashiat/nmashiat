@@ -1,7 +1,5 @@
-<h1 align="center">Mashiat Nabila</h1>
-
 <p align="center">
-  <b>Data Engineer</b> · Pipelines, data models, and the analytics built on top of them
+  <img src="header.svg" alt="Mashiat Nabila — Data Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -86,19 +84,3 @@ Source systems → Ingest & validate → Transform & model → Curated tables �
 **In progress:** AWS Certified Data Engineer – Associate · Microsoft PL-300 (Power BI Data Analyst)
 
 ---
-
-
-<!--
-**nmashiat/nmashiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
