@@ -1,0 +1,281 @@
+<svg width="1200" height="470" viewBox="0 0 1200 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mashiat Nabila — Building Data Platforms">
+  <defs>
+    <radialGradient id="vign" cx="0.5" cy="0.45" r="0.78">
+      <stop offset="0%" stop-color="#16233a"/>
+      <stop offset="60%" stop-color="#0d1424"/>
+      <stop offset="100%" stop-color="#05080f"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="haze" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="470" fill="url(#vign)"/>
+  <g fill="#7dd3fc">
+    <circle cx="626" cy="366" r="1.2" opacity="0.22"><animate attributeName="opacity" values="0.22;0.52;0.22" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="837" cy="304" r="0.7" opacity="0.42"><animate attributeName="opacity" values="0.42;0.90;0.42" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="966" cy="202" r="1.2" opacity="0.33"><animate attributeName="opacity" values="0.33;0.80;0.33" dur="4.9s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="82" r="0.7" opacity="0.17"><animate attributeName="opacity" values="0.17;0.40;0.17" dur="5.3s" repeatCount="indefinite"/></circle>
+    <circle cx="248" cy="398" r="0.9" opacity="0.23"><animate attributeName="opacity" values="0.23;0.55;0.23" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="53" r="1.5" opacity="0.15"><animate attributeName="opacity" values="0.15;0.35;0.15" dur="5.8s" repeatCount="indefinite"/></circle>
+    <circle cx="570" cy="446" r="0.9" opacity="0.35"><animate attributeName="opacity" values="0.35;0.83;0.35" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="607" cy="167" r="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.58;0.24" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="892" cy="174" r="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.58;0.24" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1027" cy="125" r="0.9" opacity="0.44"><animate attributeName="opacity" values="0.44;0.90;0.44" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="437" cy="137" r="1.2" opacity="0.18"><animate attributeName="opacity" values="0.18;0.44;0.18" dur="4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="664" cy="259" r="0.9" opacity="0.20"><animate attributeName="opacity" values="0.20;0.49;0.20" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="423" cy="96" r="0.7" opacity="0.42"><animate attributeName="opacity" values="0.42;0.90;0.42" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="336" cy="28" r="1.2" opacity="0.13"><animate attributeName="opacity" values="0.13;0.30;0.13" dur="5.1s" repeatCount="indefinite"/></circle>
+    <circle cx="570" cy="47" r="0.9" opacity="0.22"><animate attributeName="opacity" values="0.22;0.53;0.22" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1165" cy="410" r="0.7" opacity="0.32"><animate attributeName="opacity" values="0.32;0.78;0.32" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="181" cy="230" r="1.5" opacity="0.18"><animate attributeName="opacity" values="0.18;0.43;0.18" dur="6.0s" repeatCount="indefinite"/></circle>
+    <circle cx="1135" cy="311" r="0.9" opacity="0.14"><animate attributeName="opacity" values="0.14;0.33;0.14" dur="5.9s" repeatCount="indefinite"/></circle>
+    <circle cx="374" cy="401" r="1.2" opacity="0.39"><animate attributeName="opacity" values="0.39;0.90;0.39" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1094" cy="63" r="1.2" opacity="0.40"><animate attributeName="opacity" values="0.40;0.90;0.40" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="488" cy="56" r="0.7" opacity="0.30"><animate attributeName="opacity" values="0.30;0.72;0.30" dur="5.9s" repeatCount="indefinite"/></circle>
+    <circle cx="281" cy="430" r="0.9" opacity="0.38"><animate attributeName="opacity" values="0.38;0.90;0.38" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="273" r="1.5" opacity="0.19"><animate attributeName="opacity" values="0.19;0.46;0.19" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="747" cy="57" r="1.5" opacity="0.37"><animate attributeName="opacity" values="0.37;0.88;0.37" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="389" cy="104" r="1.2" opacity="0.32"><animate attributeName="opacity" values="0.32;0.76;0.32" dur="5.9s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="244" r="0.7" opacity="0.41"><animate attributeName="opacity" values="0.41;0.90;0.41" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="691" cy="418" r="0.9" opacity="0.32"><animate attributeName="opacity" values="0.32;0.77;0.32" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1178" cy="344" r="1.2" opacity="0.26"><animate attributeName="opacity" values="0.26;0.63;0.26" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="128" cy="69" r="0.7" opacity="0.18"><animate attributeName="opacity" values="0.18;0.44;0.18" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="837" cy="348" r="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.66;0.27" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="179" cy="257" r="1.5" opacity="0.12"><animate attributeName="opacity" values="0.12;0.30;0.12" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1166" cy="374" r="1.5" opacity="0.23"><animate attributeName="opacity" values="0.23;0.56;0.23" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="80" cy="66" r="0.7" opacity="0.13"><animate attributeName="opacity" values="0.13;0.31;0.13" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1071" cy="284" r="0.7" opacity="0.38"><animate attributeName="opacity" values="0.38;0.90;0.38" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1163" cy="217" r="0.9" opacity="0.41"><animate attributeName="opacity" values="0.41;0.90;0.41" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="484" cy="76" r="0.7" opacity="0.36"><animate attributeName="opacity" values="0.36;0.87;0.36" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="135" r="1.2" opacity="0.23"><animate attributeName="opacity" values="0.23;0.56;0.23" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="971" cy="438" r="1.5" opacity="0.42"><animate attributeName="opacity" values="0.42;0.90;0.42" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1174" cy="58" r="0.7" opacity="0.33"><animate attributeName="opacity" values="0.33;0.78;0.33" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="397" cy="74" r="0.9" opacity="0.30"><animate attributeName="opacity" values="0.30;0.71;0.30" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="594" cy="144" r="0.7" opacity="0.20"><animate attributeName="opacity" values="0.20;0.49;0.20" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="508" cy="314" r="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.58;0.24" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1162" cy="358" r="0.9" opacity="0.38"><animate attributeName="opacity" values="0.38;0.90;0.38" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="528" cy="405" r="0.9" opacity="0.34"><animate attributeName="opacity" values="0.34;0.81;0.34" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <ellipse cx="600" cy="272" rx="360" ry="152" fill="#1e3a8a" opacity="0.13" filter="url(#haze)"/>
+  <g>
+    <circle r="3.2" fill="#67e8f9" filter="url(#glow)" opacity="0.42">
+      <animateMotion dur="26s" begin="0.0s" repeatCount="indefinite" path="M 140,130 C 400,70 640,210 920,120 S 1130,300 950,392 S 520,320 250,404 S 70,250 140,130"/>
+      <animate attributeName="opacity" values="0.15;0.42;0.15"
+        dur="8.7s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.6" fill="#c084fc" filter="url(#glow)" opacity="0.34">
+      <animateMotion dur="33s" begin="4.0s" repeatCount="indefinite" path="M 1060,150 C 830,230 700,90 470,150 S 180,330 300,410 S 760,430 1020,350 S 1160,240 1060,150"/>
+      <animate attributeName="opacity" values="0.12;0.34;0.12"
+        dur="11.0s" begin="4.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" fill="#5eead4" filter="url(#glow)" opacity="0.3">
+      <animateMotion dur="29s" begin="9.0s" repeatCount="indefinite" path="M 300,400 C 520,430 760,360 980,410 S 1120,180 900,140 S 430,110 220,190 S 140,360 300,400"/>
+      <animate attributeName="opacity" values="0.10;0.30;0.10"
+        dur="9.7s" begin="9.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.0" fill="#93c5fd" filter="url(#glow)" opacity="0.26">
+      <animateMotion dur="38s" begin="14.0s" repeatCount="indefinite" path="M 640,110 C 900,140 1080,270 900,380 S 420,410 250,300 S 380,120 640,110"/>
+      <animate attributeName="opacity" values="0.09;0.26;0.09"
+        dur="12.7s" begin="14.0s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="58" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="25" font-weight="700" fill="#f8fafc" letter-spacing="2.8">MASHIAT NABILA</text>
+  <rect x="58" y="62" width="66" height="2.4" rx="1.3" fill="url(#accent)"/>
+
+  <clipPath id="clip0">
+    <rect x="58" y="70" height="20" width="220.8">
+      <animate attributeName="width" dur="27.0s" repeatCount="indefinite"
+        keyTimes="0;0.0000;0.0963;0.2667;0.3111;1" values="0;0;226.8;226.8;0;0"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip0)">
+    <text x="58" y="84" font-family="'SF Mono',Consolas,monospace"
+          font-size="11.5" fill="#7dd3fc" textLength="220.8" lengthAdjust="spacing">BUILDING DATA PLATFORMS</text>
+  </g>
+  <rect x="278.8" y="73" width="1.8" height="14" fill="#22d3ee" opacity="1">
+    <animate attributeName="x" dur="27.0s" repeatCount="indefinite"
+      keyTimes="0;0.0000;0.0963;0.2667;0.3111;1" values="58;58;278.8;278.8;58;58"/>
+    <animate attributeName="opacity" dur="27.0s" repeatCount="indefinite"
+      keyTimes="0;0.0000;0.0000;0.3111;0.3119;1" values="1;1;1;1;0;0"/>
+  </rect>
+  <clipPath id="clip1">
+    <rect x="58" y="70" height="20" width="0.0">
+      <animate attributeName="width" dur="27.0s" repeatCount="indefinite"
+        keyTimes="0;0.3333;0.4296;0.6000;0.6444;1" values="0;0;313.2;313.2;0;0"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip1)">
+    <text x="58" y="84" font-family="'SF Mono',Consolas,monospace"
+          font-size="11.5" fill="#7dd3fc" textLength="307.2" lengthAdjust="spacing">PIPELINES  ·  MODELS  ·  INSIGHT</text>
+  </g>
+  <rect x="58.0" y="73" width="1.8" height="14" fill="#22d3ee" opacity="0">
+    <animate attributeName="x" dur="27.0s" repeatCount="indefinite"
+      keyTimes="0;0.3333;0.4296;0.6000;0.6444;1" values="58;58;365.2;365.2;58;58"/>
+    <animate attributeName="opacity" dur="27.0s" repeatCount="indefinite"
+      keyTimes="0;0.3325;0.3333;0.6444;0.6452;1" values="0;0;1;1;0;0"/>
+  </rect>
+  <clipPath id="clip2">
+    <rect x="58" y="70" height="20" width="0.0">
+      <animate attributeName="width" dur="27.0s" repeatCount="indefinite"
+        keyTimes="0;0.6667;0.7630;0.9333;0.9778;1" values="0;0;294.0;294.0;0;0"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip2)">
+    <text x="58" y="84" font-family="'SF Mono',Consolas,monospace"
+          font-size="11.5" fill="#7dd3fc" textLength="288.0" lengthAdjust="spacing">DATA ENGINEERING  ·  ML  ·  AI</text>
+  </g>
+  <rect x="58.0" y="73" width="1.8" height="14" fill="#22d3ee" opacity="0">
+    <animate attributeName="x" dur="27.0s" repeatCount="indefinite"
+      keyTimes="0;0.6667;0.7630;0.9333;0.9778;1" values="58;58;346.0;346.0;58;58"/>
+    <animate attributeName="opacity" dur="27.0s" repeatCount="indefinite"
+      keyTimes="0;0.6659;0.6667;0.9778;0.9786;1" values="0;0;1;1;0;0"/>
+  </rect>
+
+  <text x="1142" y="52" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="12.5" fill="#94a3b8">Pipelines, models, and the analytics built on top of them</text>
+  <text x="1142" y="74" text-anchor="end" font-family="'SF Mono',Consolas,monospace"
+        font-size="10.5" fill="#5b7189" letter-spacing="1.2">python · sql · airflow · scikit-learn · power bi · fastapi</text>
+
+  <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="13.5" font-weight="600" fill="#cbd5e1" letter-spacing="3.4">MODERN DATA PLATFORM</text>
+
+  <g>
+    <rect x="380" y="168" width="440" height="40" rx="8" fill="#e879f9" opacity="0.10" filter="url(#glow)"/>
+    <rect x="380" y="168" width="440" height="40" rx="8" fill="#0b1220" stroke="#e879f9" stroke-width="1.7" opacity="0.97"/>
+    <rect x="380" y="168" width="6" height="40" rx="3" fill="#e879f9"/>
+    <text x="406" y="186" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+          font-size="12.5" font-weight="600" fill="#f1f5f9" letter-spacing="1.8">CONSUMPTION</text>
+    <text x="406" y="200" font-family="'SF Mono',Consolas,monospace"
+          font-size="8.8" fill="#64748b" letter-spacing="0.9">dashboards · reports · apps</text>
+    <circle cx="796" cy="188" r="3.6" fill="#e879f9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g>
+    <rect x="380" y="216" width="440" height="40" rx="8" fill="#c084fc" opacity="0.10" filter="url(#glow)"/>
+    <rect x="380" y="216" width="440" height="40" rx="8" fill="#0b1220" stroke="#c084fc" stroke-width="1.7" opacity="0.97"/>
+    <rect x="380" y="216" width="6" height="40" rx="3" fill="#c084fc"/>
+    <text x="406" y="234" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+          font-size="12.5" font-weight="600" fill="#f1f5f9" letter-spacing="1.8">ML + AI</text>
+    <text x="406" y="248" font-family="'SF Mono',Consolas,monospace"
+          font-size="8.8" fill="#64748b" letter-spacing="0.9">features · models · llm services</text>
+    <circle cx="796" cy="236" r="3.6" fill="#c084fc">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.35s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g>
+    <rect x="380" y="264" width="440" height="40" rx="8" fill="#818cf8" opacity="0.10" filter="url(#glow)"/>
+    <rect x="380" y="264" width="440" height="40" rx="8" fill="#0b1220" stroke="#818cf8" stroke-width="1.7" opacity="0.97"/>
+    <rect x="380" y="264" width="6" height="40" rx="3" fill="#818cf8"/>
+    <text x="406" y="282" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+          font-size="12.5" font-weight="600" fill="#f1f5f9" letter-spacing="1.8">SEMANTIC</text>
+    <text x="406" y="296" font-family="'SF Mono',Consolas,monospace"
+          font-size="8.8" fill="#64748b" letter-spacing="0.9">metrics · kpis · business rules</text>
+    <circle cx="796" cy="284" r="3.6" fill="#818cf8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g>
+    <rect x="380" y="312" width="440" height="40" rx="8" fill="#60a5fa" opacity="0.10" filter="url(#glow)"/>
+    <rect x="380" y="312" width="440" height="40" rx="8" fill="#0b1220" stroke="#60a5fa" stroke-width="1.7" opacity="0.97"/>
+    <rect x="380" y="312" width="6" height="40" rx="3" fill="#60a5fa"/>
+    <text x="406" y="330" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+          font-size="12.5" font-weight="600" fill="#f1f5f9" letter-spacing="1.8">WAREHOUSE</text>
+    <text x="406" y="344" font-family="'SF Mono',Consolas,monospace"
+          font-size="8.8" fill="#64748b" letter-spacing="0.9">curated · modeled · governed</text>
+    <circle cx="796" cy="332" r="3.6" fill="#60a5fa">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="1.0499999999999998s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g>
+    <rect x="380" y="360" width="440" height="40" rx="8" fill="#22d3ee" opacity="0.10" filter="url(#glow)"/>
+    <rect x="380" y="360" width="440" height="40" rx="8" fill="#0b1220" stroke="#22d3ee" stroke-width="1.7" opacity="0.97"/>
+    <rect x="380" y="360" width="6" height="40" rx="3" fill="#22d3ee"/>
+    <text x="406" y="378" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+          font-size="12.5" font-weight="600" fill="#f1f5f9" letter-spacing="1.8">INGESTION</text>
+    <text x="406" y="392" font-family="'SF Mono',Consolas,monospace"
+          font-size="8.8" fill="#64748b" letter-spacing="0.9">batch · stream · api · cdc</text>
+    <circle cx="796" cy="380" r="3.6" fill="#22d3ee">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="#2a3b52" stroke-width="1.2" fill="none" opacity="0.8">
+    <path d="M 186,178 H 170 V 390 H 186"/>
+    <path d="M 1014,178 H 1030 V 390 H 1014"/>
+  </g>
+  <text transform="translate(160,284) rotate(-90)" text-anchor="middle"
+        font-family="'SF Mono',Consolas,monospace" font-size="9" fill="#64748b"
+        letter-spacing="2.2">ORCHESTRATION</text>
+  <text transform="translate(1040,284) rotate(90)" text-anchor="middle"
+        font-family="'SF Mono',Consolas,monospace" font-size="9" fill="#64748b"
+        letter-spacing="2.2">GOVERNANCE</text>
+
+  <g stroke="#334966" stroke-width="1.3" fill="none" opacity="0.9">
+    <path d="M 366,168 H 344 V 296 H 366"/>
+    <path d="M 366,312 H 344 V 400 H 366"/>
+  </g>
+  <text x="336" y="222" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="10.5" font-weight="600" fill="#c084fc" letter-spacing="1.6">ML + ANALYTICS</text>
+  <text x="336" y="238" text-anchor="end" font-family="'SF Mono',Consolas,monospace"
+        font-size="8.2" fill="#5b6b85" letter-spacing="0.9">features · models · insight</text>
+  <text x="336" y="352" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="10.5" font-weight="600" fill="#38bdf8" letter-spacing="1.6">DATA ENGINEERING</text>
+  <text x="336" y="368" text-anchor="end" font-family="'SF Mono',Consolas,monospace"
+        font-size="8.2" fill="#5b6b85" letter-spacing="0.9">pipelines · schemas · quality</text>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M 820.0,380 C 898.0,380 898.0,236 820.0,236" stroke="#38bdf8" stroke-width="2" opacity="0.55"/>
+    <path d="M 820.0,246 C 924.0,246 924.0,370 820.0,370" stroke="#c084fc" stroke-width="2" opacity="0.55"/>
+
+    <path d="M 826.0,232 L 818.0,236 L 826.0,240" stroke="#38bdf8" stroke-width="2" opacity="0.9"/>
+    <path d="M 826.0,366 L 818.0,370 L 826.0,374" stroke="#c084fc" stroke-width="2" opacity="0.9"/>
+
+    <circle r="4" fill="#67e8f9" filter="url(#glow)">
+      <animateMotion dur="3.4s" repeatCount="indefinite" path="M 820.0,380 C 898.0,380 898.0,236 820.0,236"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.4" fill="#67e8f9" filter="url(#glow)">
+      <animateMotion dur="3.4s" begin="1.7s" repeatCount="indefinite" path="M 820.0,380 C 898.0,380 898.0,236 820.0,236"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#e879f9" filter="url(#glow)">
+      <animateMotion dur="3.4s" begin="0.85s" repeatCount="indefinite" path="M 820.0,246 C 924.0,246 924.0,370 820.0,370"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="0.85s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.4" fill="#e879f9" filter="url(#glow)">
+      <animateMotion dur="3.4s" begin="2.55s" repeatCount="indefinite" path="M 820.0,246 C 924.0,246 924.0,370 820.0,370"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="2.55s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(938.0,268)">
+    <text x="0" y="-16" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+          font-size="10.5" font-weight="600" fill="#93c5fd" letter-spacing="1.6">CONTINUOUS</text>
+    <text x="0" y="0" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+          font-size="10.5" font-weight="600" fill="#93c5fd" letter-spacing="1.6">CYCLE</text>
+    <text x="0" y="18" font-family="'SF Mono',Consolas,monospace"
+          font-size="8" fill="#5b6b85" letter-spacing="0.8">features up</text>
+    <text x="0" y="30" font-family="'SF Mono',Consolas,monospace"
+          font-size="8" fill="#5b6b85" letter-spacing="0.8">predictions back</text>
+  </g>
+
+  <circle cx="600" r="4.4" fill="#67e8f9" filter="url(#glow)">
+    <animate attributeName="cy" values="400;168" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <line x1="58" y1="430" x2="1142" y2="430" stroke="#1e2b3f" stroke-width="1"/>
+  <text x="600" y="452" text-anchor="middle" font-family="'SF Mono',Consolas,monospace"
+        font-size="10.5" fill="#4b6180" letter-spacing="2.6">INGEST · VALIDATE · TRANSFORM · MODEL · SERVE</text>
+</svg>
